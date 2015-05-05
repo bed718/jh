@@ -63,9 +63,7 @@
 <div id="footer-container">
 	<div id="front-devider">
 				<h3>Instagram: <a href="http://instagram.com/jacobholston">@jacobholston</a></h3>
-				<div class="main">
-					<div id="footer-instafeed"></div>
-				</div>
+				<div id="footer-instafeed"></div>
 			</div>
 	<div  id="footer">
 
