@@ -16,10 +16,11 @@ files[] = tests/protected_node.mail_test.test
 files[] = tests/protected_node.private_file.test
 files[] = tests/protected_node.view_mode.test
 files[] = tests/protected_node.statistics.test
+files[] = tests/protected_node.bulk.test
 
-; Information added by Drupal.org packaging script on 2015-03-16
+; Information added by Drupal.org packaging script on 2015-04-04
 version = "7.x-1.x-dev"
 core = "7.x"
 project = "protected_node"
-datestamp = "1426519701"
+datestamp = "1428177484"
 
